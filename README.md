@@ -9,4 +9,4 @@ It finds low price for a coin pregiven DEXs compare to other DEXs in the given l
       <li>Profit is kept in the contract for withdrawal</li>
     </ul><br>
 
-The project is not upto the point where I expect it to be. Contributors are mostly welcomed. I intend to develop this as a library to be quickly inherited by other contracts.
+The project is not upto the point where I expect it to be. **Contributors are most welcomed. I intend to develop this as a library to be quickly inherited by other contracts.**
