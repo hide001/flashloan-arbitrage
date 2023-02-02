@@ -1,5 +1,5 @@
 **Hi! It's a trading bot meant for doing arbitrage trades on a given list of DEXs**<br>
-It finds low price for a coin pregiven DEXs compare to other DEXs in the given list. Then finds a considerable high price of that coin on provided DEXs. Checks the profitablity of this oppurtunity accounting for flash loan fee. If the profit is significant enough it carry outs the below execution.<br>
+It finds low price for a coin on pregiven DEXs compared to other DEXs in the given list. Then finds a considerable high price of that coin on provided DEXs. Checks the profitablity of this oppurtunity accounting for flash loan fee. If the profit is significant enough it carry outs the below execution.<br>
 
  **Upon finding an arbitrage opportunity on a given set of cions:**
     <ul>
